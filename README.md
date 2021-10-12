@@ -1,0 +1,2 @@
+# CapsuleManageSystem
+vue manage system
